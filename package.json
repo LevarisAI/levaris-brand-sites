@@ -1,1 +1,1 @@
-{"scripts":{"serve:levaris":"npx serve sites/levaris -l 4173","serve:soren":"npx serve sites/soren -l 4174"},"devDependencies":{"serve":"latest"}}
+{"scripts":{"serve:levaris":"npx serve sites/levaris -l 4173","serve:soren":"npx serve sites/soren -l 4174"},"devDependencies":{"playwright":"^1.59.1","serve":"latest"}}
